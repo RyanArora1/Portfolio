@@ -1,6 +1,13 @@
 # COVID-19 Dashboard (Tableau)
 
+## Dashboard Preview
+![COVID-19 Dashboard](tableau-covid-dashboard.png)
 
+## Live Dashboard
+View the interactive dashboard here:  
+https://public.tableau.com/shared/XCS7PK8CK?:display_count=n&:origin=viz_share_link
+
+---
 
 ## Overview
 This project visualises global COVID-19 data using interactive dashboards created in Tableau. The goal was to transform raw COVID-19 data into clear visual insights that make it easier to understand trends in cases, deaths, and vaccination progress across different regions.
@@ -34,6 +41,7 @@ These visualisations allow users to quickly identify patterns and compare the im
 - Tableau
 - SQL Server
 - SQL
+- GitHub
 
 ---
 
@@ -46,4 +54,5 @@ https://ourworldindata.org/covid-data
 ---
 
 ## Files
-This folder contains the Tableau dashboard and supporting files used to build the visualisation.
+- `tableau_queries.sql` – SQL queries used to prepare the dataset
+- `tableau-covid-dashboard.png` – Screenshot of the Tableau dashboard
