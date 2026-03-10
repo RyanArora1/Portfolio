@@ -54,5 +54,13 @@ Folder: `tableau-covid-dashboard`
 
 ---
 
-## About
-I am a Computer Science student building practical experience through hands-on projects involving programming, data analysis, and data visualisation. New projects will be added regularly as I continue developing new skills and working with different datasets.
+## Contact
+
+I am currently studying Computer Science at Flinders University and building projects in SQL, Python, and data analytics. If you have questions about any of these projects or would like to connect regarding internships or graduate opportunities, feel free to reach out.
+
+Ryan Arora  
+Computer Science Student – Flinders University  
+   
+Email: aror0138@flinders.edu.au
+Email: aroraryan@outlook.com
+Mobile: 0424003736
